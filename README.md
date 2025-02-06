@@ -1,2 +1,2 @@
-# solarpowerprediction-week1
-  Solar Power Prediction Using Linear Regression-Week-1
+# solarpowerprediction
+  Solar Power Prediction Using Linear Regression
